@@ -1,0 +1,1 @@
+# this repo for DSA quetion with c language
